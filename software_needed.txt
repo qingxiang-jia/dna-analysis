@@ -1,2 +1,4 @@
 https://github.com/samtools/samtools
 http://samtools.github.io/bcftools/
+
+vcf from WeGene uses GCH 37 encoding but the one we generated uses GCH 38
